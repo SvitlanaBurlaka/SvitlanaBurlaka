@@ -1,9 +1,9 @@
  **Hi there 👋, I am [Svitlana Burlaka](https://github.com/SvitlanaBurlaka)!**
  
  
- I am full stack developer living in Denmark! Passionate about coding and helping people.
+ I am working on to become a full stack developer.Passionate about coding and helping people.
 
--  🔭 I’m currently working on graduation project from [HackYourFuture Denmark](https://github.com/HackYourFuture-CPH)!
+-  🏠 Living in Skanderborg, Denmark.
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/svitlana-burlaka-ab6304238/), or burlaka.sv.7@gmail.com !
 -  💻 I’m currently learning React, NodeJS.
 -  📃 Check my [portfolio](https://svitlanaburlaka.github.io/svitlana-burlaka-portfolio) and [Resume](https://github.com/SvitlanaBurlaka/Resume/raw/main/Svitlana%20CV.pdf)☺️.
