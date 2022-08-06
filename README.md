@@ -6,7 +6,7 @@
 -  🔭 I’m currently working on graduation project from [HackYourFuture Denmark](https://github.com/HackYourFuture-CPH)!
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/svitlana-burlaka-ab6304238/), or burlaka.sv.7@gmail.com !
 -  💻 I’m currently learning React, NodeJS.
--  📃 Checkout my [portfolio](https://svitlanaburlaka.github.io/svitlana-burlaka-portfolio) and [Resume](https://github.com/SvitlanaBurlaka/Resume/raw/main/Svitlana%20CV.pdf).
+-  📃 Check my [portfolio](https://svitlanaburlaka.github.io/svitlana-burlaka-portfolio) and [Resume](https://github.com/SvitlanaBurlaka/Resume/raw/main/Svitlana%20CV.pdf)☺️.
 -  ✈️ I like to travel and 🤾‍♀️sport in my free time.
 
 
