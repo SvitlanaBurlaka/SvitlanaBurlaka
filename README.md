@@ -1,7 +1,7 @@
  **Hi there 👋, I am [Svitlana Burlaka](https://github.com/SvitlanaBurlaka)!**
  
  
- I am working on to become a full stack developer.Passionate about coding and helping people.
+ I am working on to become a full stack developer, passionate about coding and helping people.
 
 -  🏠 Living in Skanderborg, Denmark.
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/svitlana-burlaka-ab6304238/), or burlaka.sv.7@gmail.com !
