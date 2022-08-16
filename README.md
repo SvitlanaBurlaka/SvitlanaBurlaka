@@ -6,7 +6,7 @@
 -  🏠 Living in Skanderborg, Denmark.
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/svitlana-burlaka-ab6304238/), or burlaka.sv.7@gmail.com !
 -  💻 I’m currently learning React, NodeJS.
--  📃 Check my [portfolio](https://svitlanaburlaka.github.io/svitlana-burlaka-portfolio) and [Resume](https://github.com/SvitlanaBurlaka/Resume/raw/main/Svitlana%20CV.pdf)☺️.
+-  📃 Check my [portfolio](https://svitlanaburlaka.github.io/svitlana-burlaka-portfolio) and [Resume](https://github.com/SvitlanaBurlaka/CV/raw/main/Svitlana-20CV.pdf)☺️.
 -  ✈️ I like to travel and 🤾‍♀️sport in my free time.
 
 
