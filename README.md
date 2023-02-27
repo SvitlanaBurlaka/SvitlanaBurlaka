@@ -1,8 +1,9 @@
  **Hi there 👋, I am [Svitlana Burlaka](https://github.com/SvitlanaBurlaka)!**
  
  
- I am working on to become a full stack developer, passionate about coding and helping people.
-
+ I am passionate about coding and helping people.
+ 
+- :office:Working as IAM admin at Tietoevry.
 -  🏠 Living in Brno, Czech Republic .
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/svitlana-burlaka-ab6304238/), or burlaka.sv.7@gmail.com !
 -  💻 I’m currently learning React, NodeJS, TypeScript.
