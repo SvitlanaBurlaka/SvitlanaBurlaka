@@ -7,7 +7,6 @@
 -  🏠 Living in Brno, Czech Republic .
 -  📫 How to reach me: [Linkedin](https://www.linkedin.com/in/svitlana-burlaka-ab6304238/), or burlaka.sv.7@gmail.com !
 -  💻 I’m currently learning React, NodeJS, TypeScript.
--  📃 Check my [portfolio](https://svitlanaburlaka.github.io/svitlana-burlaka-portfolio).
 -  ✈️ I like to travel and 🤾‍♀️sport in my free time.
 
 
